@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burningdinosaurbones
 - 👀 I’m interested in ... learning to manage Git repos and a public profile on Github
-- ... like a philips head into my brain.
+- ... like a Philips head into my brain.
 
 <!---
 burningdinosaurbones/burningdinosaurbones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
